@@ -1,0 +1,157 @@
+﻿  BaseData.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BattleTap.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BlockData.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameNode.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\gamescene.cpp(49): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\gamescene.cpp(82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\gamescene.cpp(108): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\gamescene.cpp(111): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Image.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(56): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(79): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(80): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(81): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(82): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(83): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(235): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(234): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(233): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(232): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(230): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(229): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(242): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(241): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(240): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(249): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(250): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(269): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(268): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(267): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(266): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(264): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(263): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(276): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(275): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.cpp(274): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\imagemanager.cpp(55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainGame.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RoadTap.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\roadtap.cpp(261): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+c:\users\boschi02\desktop\loophero_1\winapi\roadtap.cpp(460): warning C4101: 'rand' :참조되지 않은 지역 변수입니다.
+  WinMain.cpp
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(22): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(71): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(72): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(73): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(74): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(75): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(76): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(87): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\image.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\boschi02\desktop\loophero_1\winapi\winmain.cpp(36): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  WinAPI.vcxproj -> C:\Users\BOSCHI02\Desktop\LoopHero_1\x64\Debug\WinAPI.exe
